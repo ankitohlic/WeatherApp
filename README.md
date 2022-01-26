@@ -20,6 +20,9 @@ This is a Web based Weather application which shows current weather includes tim
 | `API key` | `string` | **Required**. Your API key |
 
 
+## 🔗 Links
+[OpenWearther Site for API](https://openweathermap.org/current)
+
 ## Deployment
 
 To change the city go to `index.js` file and in line number 28 change **Kolkata** to any city you want
